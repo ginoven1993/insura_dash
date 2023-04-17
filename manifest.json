@@ -1,0 +1,6 @@
+{
+    "name": "Insurance",
+    "description": "Charger les données de vos clients assurés",
+    "version": "1.0.0",
+    "manifest_version": 2
+}
